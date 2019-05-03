@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    background: #1d0e0b;
+    padding-left: 40px;
+}
+.header h1 {
+margin-right: 70px;
+}
+.header div {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: space-between;
+}

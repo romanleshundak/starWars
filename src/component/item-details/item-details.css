@@ -1,0 +1,9 @@
+.person-details {
+    display: flex;
+}
+
+.person-details img {
+    width: 200px;
+    height: 270px;
+    margin-right: 40px;
+}

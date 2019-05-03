@@ -1,0 +1,15 @@
+.main_content {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+body {
+    background: #1e1e1e;
+    color: aliceblue;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 20px;
+}

@@ -1,0 +1,9 @@
+.random_planet {
+    display: flex;
+}
+
+.random_planet img {
+    width: 200px;
+    height: 200px;
+    margin: 20px 30px;
+}
